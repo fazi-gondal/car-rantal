@@ -33,7 +33,7 @@ function Testimonials() {
               <div className="flex items-center justify-center gap-4">
                 <div>
                   <Image
-                    src="/images/Fazi.png"
+                    src="/images/fazi.jpeg"
                     alt="Faizan Gondal"
                     width={80}
                     height={80}
