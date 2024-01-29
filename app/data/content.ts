@@ -167,7 +167,7 @@ export const team = [
   {
     id: 1,
     img: "/images/owner.jpeg",
-    name: "Gulam Kadar",
+    name: "Gulam Qadir",
     job: "CEO",
   },
   {
