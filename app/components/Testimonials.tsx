@@ -33,16 +33,16 @@ function Testimonials() {
               <div className="flex items-center justify-center gap-4">
                 <div>
                   <Image
-                    src="/images/fazi.jpeg"
-                    alt="Faizan Gondal"
+                    src="/images/"
+                    alt=""
                     width={80}
                     height={80}
                     className="rounded-full"
                   />
                 </div>
                 <div>
-                  <h3 className="font-bold text-lg">Faizan Gondal</h3>
-                  <p>Ratto Kala</p>
+                  <h3 className="font-bold text-lg"></h3>
+                  <p></p>
                 </div>
               </div>
               <div className="hidden lg:block">
@@ -63,15 +63,15 @@ function Testimonials() {
               <div className="flex items-center justify-center gap-4">
                 <div>
                   <Image
-                    src="/images/rehan.jpeg"
-                    alt="Rehan Javed"
+                    src="/images/"
+                    alt=""
                     width={80}
                     height={80}
                     className="rounded-full"
                   />
                 </div>
                 <div>
-                  <h3 className="font-bold text-lg">Rehan Javed</h3>
+                  <h3 className="font-bold text-lg"></h3>
                   <p>Lahore</p>
                 </div>
               </div>
