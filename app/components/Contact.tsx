@@ -70,7 +70,7 @@ function Contact() {
             </label>
             <input
               type="text"
-              placeholder='E.g: "Faizan Gondal"'
+              placeholder='E.g: ""'
               className="bg-lighter-grey p-3 text-sm placeholder:text-custom-grey rounded w-full lg:py-4 lg:px-6"
               id="full-name"
             />
